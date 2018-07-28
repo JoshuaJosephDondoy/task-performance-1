@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Laboratory</string>
+    <string name ="FirstName">FirstName</string>
+    <string name ="MiddleName">MiddleName</string>
+    <string name="LastName">LastName</string>
+    <string name="btn_post">Post</string>
+
+</resources>
